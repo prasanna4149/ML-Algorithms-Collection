@@ -9,6 +9,7 @@ The dataset contains historical stock prices and associated metadata. Features i
 - `Industry_Tag`: The sector or industry classification.
 - `Brand_Name`: The company's brand.
 - `Close`: The closing price of the stock.
+  ##dataset link = https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating
 
 ## Requirements
 Ensure you have the following Python libraries installed:
